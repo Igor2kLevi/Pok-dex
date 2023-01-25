@@ -25,7 +25,7 @@ export default function Home({ pokemons }) {
   return (
       <div>
         <div className="flex justify-center mb-8 text-center">
-          <h1 className="text-5xl font-bold text-red-600 mr-2">Poke<span className="text-zinc-800">Next</span></h1>
+          <h1 className="text-5xl font-bold text-red-600 mr-2">Poké<span className="text-zinc-800">Dex</span></h1>
           <Image src="/images/pokeball.png" width="55" height="55" alt="PokeNext" />
         </div>
         <div className="flex flex-wrap justify-between items-center max-w-7xl m-auto">
